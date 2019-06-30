@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.name = "SimpleImageViewer"
   s.summary = "A snappy image viewer with zoom and interactive dismissal transition."
   s.requires_arc = true
-  s.version = "1.1.2 mjes"
+  s.version = "1.1.3"
   s.license = { :type => "MIT", :file => "LICENSE" }
   s.author = { "Mark" => "development@afrogleap.com" }
   s.homepage = "https://github.com/aFrogleap/SimpleImageViewer"
