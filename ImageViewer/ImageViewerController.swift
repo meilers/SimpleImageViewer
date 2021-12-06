@@ -31,7 +31,7 @@ public final class ImageViewerController: UIViewController {
         imageView.image = configuration?.imageView?.image ?? configuration?.image
         
         setupScrollView()
-        setupGestureRecognizers()
+//        setupGestureRecognizers()
         setupTransitions()
         setupActivityIndicator()
     }
